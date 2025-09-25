@@ -3,7 +3,7 @@
 
   <!-- หน้าแรก -->
   <url>
-    <loc>https://uefanorton-dev.github.io/burapa-rungroj-logistics/</loc>
+    <loc>https://uefanorton-dev.github.io/burapa-rungroj-logistics/index.html</loc>
     <lastmod>2025-09-25</lastmod>
   </url>
 
@@ -13,22 +13,41 @@
     <lastmod>2025-09-25</lastmod>
   </url>
 
+  <!-- ร่วมงานกับเรา -->
+  <url>
+    <loc>https://uefanorton-dev.github.io/burapa-rungroj-logistics/careers.html</loc>
+    <lastmod>2025-09-25</lastmod>
+  </url>
+
   <!-- ติดต่อเรา -->
   <url>
     <loc>https://uefanorton-dev.github.io/burapa-rungroj-logistics/contact.html</loc>
     <lastmod>2025-09-25</lastmod>
   </url>
 
-  <!-- Careers -->
-  <url>
-    <loc>https://uefanorton-dev.github.io/burapa-rungroj-logistics/careers.html</loc>
-    <lastmod>2025-09-25</lastmod>
-  </url>
-
-  <!-- ประเภทการขนส่ง -->
+  <!-- ประเภทบริการ -->
   <url>
     <loc>https://uefanorton-dev.github.io/burapa-rungroj-logistics/type.html</loc>
     <lastmod>2025-09-25</lastmod>
   </url>
 
+  <!-- 10 ล้อแท่น -->
+  <url>
+    <loc>https://uefanorton-dev.github.io/burapa-rungroj-logistics/10ล้อแท้.html</loc>
+    <lastmod>2025-09-25</lastmod>
+  </url>
+
+  <!-- 10 ล้อยก -->
+  <url>
+    <loc>https://uefanorton-dev.github.io/burapa-rungroj-logistics/10ล้อยก.html</loc>
+    <lastmod>2025-09-25</lastmod>
+  </url>
+
+  <!-- 6 ล้อ -->
+  <url>
+    <loc>https://uefanorton-dev.github.io/burapa-rungroj-logistics/6ล้อลาก.html</loc>
+    <lastmod>2025-09-25</lastmod>
+  </url>
+
 </urlset>
+
