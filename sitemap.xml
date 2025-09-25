@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- หน้าแรก -->
+  <url>
+    <loc>https://uefanorton-dev.github.io/burapa-rungroj-logistics/</loc>
+    <lastmod>2025-09-25</lastmod>
+  </url>
+
+  <!-- เกี่ยวกับเรา -->
+  <url>
+    <loc>https://uefanorton-dev.github.io/burapa-rungroj-logistics/about.html</loc>
+    <lastmod>2025-09-25</lastmod>
+  </url>
+
+  <!-- ติดต่อเรา -->
+  <url>
+    <loc>https://uefanorton-dev.github.io/burapa-rungroj-logistics/contact.html</loc>
+    <lastmod>2025-09-25</lastmod>
+  </url>
+
+  <!-- Careers -->
+  <url>
+    <loc>https://uefanorton-dev.github.io/burapa-rungroj-logistics/careers.html</loc>
+    <lastmod>2025-09-25</lastmod>
+  </url>
+
+  <!-- ประเภทการขนส่ง -->
+  <url>
+    <loc>https://uefanorton-dev.github.io/burapa-rungroj-logistics/type.html</loc>
+    <lastmod>2025-09-25</lastmod>
+  </url>
+
+</urlset>
