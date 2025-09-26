@@ -1,0 +1,6 @@
+# อนุญาตให้ Google และ search engines เก็บข้อมูลทุกหน้า
+User-agent: *
+Allow: /
+
+# ชี้ไปที่ sitemap ของเว็บ
+Sitemap: https://uefanorton-dev.github.io/burapa-rungroj-logistics/sitemap.xml

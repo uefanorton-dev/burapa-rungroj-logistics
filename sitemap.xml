@@ -1,53 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- หน้าแรก -->
+  <!-- หน้าแรก: บริษัท บูรพารุ่งโรจน์ โลจิสติกส์ จำกัด | Burapa Rungroj Logistics -->
   <url>
-    <loc>https://uefanorton-dev.github.io/burapa-rungroj-logistics/index.html</loc>
-    <lastmod>2025-09-25</lastmod>
+    <loc>https://uefanorton-dev.github.io/burapa-rungroj-logistics/</loc>
+    <lastmod>2025-09-26</lastmod>
+    <priority>1.0</priority>
   </url>
 
   <!-- เกี่ยวกับเรา -->
   <url>
     <loc>https://uefanorton-dev.github.io/burapa-rungroj-logistics/about.html</loc>
-    <lastmod>2025-09-25</lastmod>
+    <lastmod>2025-09-26</lastmod>
+    <priority>0.8</priority>
   </url>
 
   <!-- ร่วมงานกับเรา -->
   <url>
     <loc>https://uefanorton-dev.github.io/burapa-rungroj-logistics/careers.html</loc>
-    <lastmod>2025-09-25</lastmod>
+    <lastmod>2025-09-26</lastmod>
+    <priority>0.7</priority>
   </url>
 
   <!-- ติดต่อเรา -->
   <url>
     <loc>https://uefanorton-dev.github.io/burapa-rungroj-logistics/contact.html</loc>
-    <lastmod>2025-09-25</lastmod>
+    <lastmod>2025-09-26</lastmod>
+    <priority>0.8</priority>
   </url>
 
-  <!-- ประเภทบริการ -->
+  <!-- ประเภทรถและบริการ -->
   <url>
     <loc>https://uefanorton-dev.github.io/burapa-rungroj-logistics/type.html</loc>
-    <lastmod>2025-09-25</lastmod>
+    <lastmod>2025-09-26</lastmod>
+    <priority>0.7</priority>
   </url>
 
-  <!-- 10 ล้อแท่น -->
-  <url>
-    <loc>https://uefanorton-dev.github.io/burapa-rungroj-logistics/10ล้อแท้.html</loc>
-    <lastmod>2025-09-25</lastmod>
-  </url>
-
-  <!-- 10 ล้อยก -->
-  <url>
-    <loc>https://uefanorton-dev.github.io/burapa-rungroj-logistics/10ล้อยก.html</loc>
-    <lastmod>2025-09-25</lastmod>
-  </url>
-
-  <!-- 6 ล้อ -->
+  <!-- รถ 6 ล้อ -->
   <url>
     <loc>https://uefanorton-dev.github.io/burapa-rungroj-logistics/6ล้อลาก.html</loc>
-    <lastmod>2025-09-25</lastmod>
+    <lastmod>2025-09-26</lastmod>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- รถ 10 ล้อ (เท่) -->
+  <url>
+    <loc>https://uefanorton-dev.github.io/burapa-rungroj-logistics/10ล้อเท่.html</loc>
+    <lastmod>2025-09-26</lastmod>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- รถ 10 ล้อ (ยก) -->
+  <url>
+    <loc>https://uefanorton-dev.github.io/burapa-rungroj-logistics/10ล้อยก.html</loc>
+    <lastmod>2025-09-26</lastmod>
+    <priority>0.6</priority>
   </url>
 
 </urlset>
+
 
